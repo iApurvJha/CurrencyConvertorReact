@@ -58,3 +58,10 @@ input{
   padding: 1rem;
   margin: 1rem;
 }
+.swap-cnvt{
+  color: white;
+  background-color: rgba(15, 202, 124, 0.871);
+  width: 5vw;
+  height: 5vh;
+  cursor: pointer;
+}
